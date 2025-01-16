@@ -56,4 +56,4 @@
 ---
 <p align="center"><strong>欢迎补充，预祝大家顺利完成论文，通过答辩，开启下一段人生篇章</strong>🎉</p>
 
-<img src="bg.jpeg" alt="Example Image" width="600" height="300">
+<p align="center"><img src="bg.jpeg" alt="Example Image" width="600" height="300"></p>
